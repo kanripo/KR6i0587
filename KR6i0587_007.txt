@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:11.414924
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:14
 #+TITLE: 閱經十二種
 #+PROPERTY: CBETA_ID X37n0674
 #+PROPERTY: ID KR6i0587
@@ -9,10 +9,8 @@
 #+PROPERTY: WITNESS X
 #+PROPERTY: LASTPB <pb:KR6i0587_X_007-0769c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
-
-No.674-7藥師燈燄
- No.674-7¶
-藥師燈燄¶
+No. 674-7¶
+ 藥師燈燄¶
 震旦桑門　淨挺　著¶
 優婆塞　徐世淯¶
 　陳祚昌　仝閱¶
