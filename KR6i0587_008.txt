@@ -1,18 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:11.431776
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:14
 #+TITLE: 閱經十二種
 #+PROPERTY: CBETA_ID X37n0674
 #+PROPERTY: ID KR6i0587
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 37, No. 674
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0587_X_008-0771b> 
 #+PROPERTY: JUAN 8
-
-No.674-8彌陀舌相
- No.674-8¶
-彌陀舌相¶
+No. 674-8¶
+ 彌陀舌相¶
 西溪俍亭挺　著¶
 同學　吳山濤¶
 　戴斑立　仝閱¶
@@ -89,7 +87,7 @@ No.674-8彌陀舌相
 問。一心不亂即得往生。古人道生則必定生。去則實¶
 不去。是否。答。到頭雲定不離山。¶
 
-頌。天地只爾戶庭已。悠世與我以相遺。復駕言兮焉¶
+頌。天地只爾戶庭巳。悠世與我以相遺。復駕言兮焉¶
 求。老僧百年後。山前檀越家變一頭水牯牛。¶
 
 問。東方舌相遍覆大千。且問南西北方上下再來作¶
